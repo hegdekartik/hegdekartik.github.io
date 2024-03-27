@@ -1,4 +1,4 @@
-I am a masters student in the **[IPCV lab, IIT Madras](https://www.ee.iitm.ac.in/ipcvlab/)**. I am advised by **[Prof. Rajagopalan. A. N.](https://www.ee.iitm.ac.in/~raju/)** specializing on topics related to Computer Vision.
+I am a master's student in the **[IPCV lab, IIT Madras](https://www.ee.iitm.ac.in/ipcvlab/)**. I am advised by **[Prof. Rajagopalan. A. N.](https://www.ee.iitm.ac.in/~raju/)** specializing on topics related to Computer Vision.
 ---
 
 ## Updates 
